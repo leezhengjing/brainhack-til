@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zheng\\GithubCode\\brainhack-til\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zheng\\GithubCode\\brainhack-til\\Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.4.1_API_Model_Integration.ipynb",
+              "DocumentMoniker": "C:\\Users\\zheng\\GithubCode\\brainhack-til\\Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb",
+              "RelativeDocumentMoniker": "Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb",
+              "ToolTip": "C:\\Users\\zheng\\GithubCode\\brainhack-til\\Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb",
+              "RelativeToolTip": "Part 3 CV-VLM\\Unit 4 Vision-Language Models (Novice-Advanced)\\4.4 Deployment and Integration\\4.4.1_API_Model_Integration.ipynb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T16:30:05.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
